@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 name: 'Gado Gado',
                 arabic: 'جادو جادو',
                 description: 'Traditional Indonesian salad with peanut sauce',
-                arabicDescription: 'سلطة إندونيسية تقليدية مع صلصة الفول السوداني',
+                arabicDescription: 'سلطة جاوية تقليدية مع صلصة الفول السوداني',
                 price: '18'
             },
             {
@@ -28,14 +28,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 name: 'Nasi Goreng',
                 arabic: 'ناسي جورينج',
                 description: 'Indonesian fried rice with chicken and shrimp',
-                arabicDescription: 'أرز مقلي إندونيسي مع الدجاج والروبيان',
+                arabicDescription: 'أرز مقلي جاوي مع الدجاج والروبيان',
                 price: '29'
             },
             {
                 name: 'Beef Rendang',
                 arabic: 'رندانج لحم',
                 description: 'Slow-cooked beef in Indonesian spices',
-                arabicDescription: 'لحم بقري مطهو ببطء مع التوابل الإندونيسية',
+                arabicDescription: 'لحم بقري مطهو ببطء مع التوابل الجاوية',
                 price: '45'
             }
         ],
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 name: 'Es Teh',
                 arabic: 'إس تيه',
                 description: 'Indonesian iced tea',
-                arabicDescription: 'شاي مثلج إندونيسي',
+                arabicDescription: 'شاي مثلج جاوي',
                 price: '12'
             },
             {
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Update hero section
         const heroTranslations = {
             ar: {
-                title: 'استمتع بالمذاق<br>الإندونيسي الأصيل',
+                title: 'استمتع بالمذاق<br>الجاوي الأصيل',
                 subtitle: 'حيث يلتقي التقليد بالذوق العصري',
                 viewMenu: 'شاهد القائمة',
                 contactUs: 'اتصل بنا',
